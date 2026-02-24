@@ -17,4 +17,4 @@ for node in nodes:
     latency = int(parts[2])
 
     if latency > 100:
-        print("BRIDINAJUMS: {hostname} ir lens!")
+        print(f"BRIDINAJUMS: {hostname} ir lens!")
